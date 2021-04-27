@@ -39,3 +39,7 @@ PUSHING A BRANCH
 - git push origin name-of-branch -> push branch to remote
 - origin -> remote -> github
 - name-of-branch -> branch with the changes we want to add
+
+---
+
+SOME CHANGES
