@@ -1,2 +1,3 @@
 - github profile name: dim4ik2911 ;
-carlito-jdp
+  carlito-jdp
+  clint-mctribouy-koy
