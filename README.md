@@ -17,3 +17,25 @@ never clone a repo into a repo
 - git push origin main ->
 - origin -> remote -> github
 - main -> current branch we are working on
+
+---
+
+# Branching
+
+VIEWING BRANCHES
+
+- git branch -a -> to see all of the branches
+
+CREATING BRANCH
+
+- git checkout -b name-of-branch -> create new branch & moved us onto it
+
+NAVIGATING BRANCHES
+
+- git checkout name-of-branch -> moved us on it
+
+PUSHING A BRANCH
+
+- git push origin name-of-branch -> push branch to remote
+- origin -> remote -> github
+- name-of-branch -> branch with the changes we want to add
